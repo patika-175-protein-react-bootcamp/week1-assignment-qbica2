@@ -1,23 +1,23 @@
 # week1-assignment
 
-[**All in one**](https://github.com/qbica2/patika-all-in-one-)
+<a href="https://github.com/qbica2/patika-all-in-one-" target="_blank">**All in one**</a>
 
-[**HTML first**](https://github.com/qbica2/kodluyoruzilkrepo)
+<a href="https://github.com/qbica2/kodluyoruzilkrepo" target="_blank">**HTML first**</a>
 
-[**HTML second**](https://github.com/qbica2/kodluyoruz-deneme1)
+<a href="https://github.com/qbica2/kodluyoruz-deneme1" target="_blank">**HTML second**</a>
 
-[**HTML third**](https://github.com/qbica2/kodluyoruz.odev3)
+<a href="https://github.com/qbica2/kodluyoruz.odev3" target="_blank">**HTML third**</a>
 
-[**CSS first**](https://github.com/qbica2/kodluyoruz-css-odev1)
+<a href="https://github.com/qbica2/kodluyoruz-css-odev1" target="_blank">**CSS first**</a>
 
-[**CSS second**](https://github.com/qbica2/kodluyoruz-google)
+<a href="https://github.com/qbica2/kodluyoruz-google" target="_blank">**CSS second**</a>
 
-[**CSS third**](https://github.com/qbica2/kodluyoruz-google-current)
+<a href="https://github.com/qbica2/kodluyoruz-google-current" target="_blank">**CSS third**</a>
 
-[**Javascript first**](https://github.com/qbica2/kodluyoruz-Javascript-Odev1)
+<a href="https://github.com/qbica2/kodluyoruz-Javascript-Odev1" target="_blank">**Javascript first**</a>
 
-[**Javascript second**](https://github.com/qbica2/kodluyoruz-javascript-odev2)
+<a href="https://github.com/qbica2/kodluyoruz-javascript-odev2" target="_blank">**Javascript second**</a>
 
-[**Javascript third**](https://github.com/qbica2/kodluyoruz-javascript-odev3)
+<a href="https://github.com/qbica2/kodluyoruz-javascript-odev3" target="_blank">**Javascript third**</a>
 
-[**Hackerrank challenges**](https://github.com/qbica2/HackerRank-Javascript)
+<a href="https://github.com/qbica2/HackerRank-Javascript" target="_blank">**Hackerrank challenges**</a>
